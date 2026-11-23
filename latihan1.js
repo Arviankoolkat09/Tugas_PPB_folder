@@ -3,6 +3,6 @@ function sapa(nama) {
 }
 
 const sapaModern = (nama) => {
-    return 'Halo'+ nama + ', selamat datang!';
+    return `Halo ${nama} selamat datang!`;
 }
 console.log(sapaModern(" Budi"));
